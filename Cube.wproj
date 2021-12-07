@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="Project" SchemaVersion="103" WwiseVersion="v2021.1.0" WwiseBuild="6590">
+<WwiseDocument Type="Project" SchemaVersion="103" WwiseVersion="v2021.1.4" WwiseBuild="7707">
 	<ProjectInfo>
 		<Project Name="Cube" ID="{5E03F73B-C9A2-47B5-AC03-9CEC14D69526}">
 			<Platforms>
@@ -784,7 +784,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="iZotope Hybrid Reverb" PluginType="3" CompanyID="259" PluginID="2">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="259" PluginID="2">
 					<PropertyList>
 						<Property Name="Color" Type="int16">
 							<ValueList>
@@ -926,7 +926,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="XMA" PluginType="1" CompanyID="0" PluginID="3">
+				<SharedPropertyList ClassName="" PluginType="1" CompanyID="0" PluginID="3">
 					<PropertyList>
 						<Property Name="BlockSize" Type="int32">
 							<ValueList>
@@ -1194,7 +1194,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="iZotope Trash Distortion" PluginType="3" CompanyID="259" PluginID="3">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="259" PluginID="3">
 					<PropertyList>
 						<Property Name="Color" Type="int16">
 							<ValueList>
@@ -1400,7 +1400,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="iZotope Trash Delay" PluginType="3" CompanyID="259" PluginID="4">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="259" PluginID="4">
 					<PropertyList>
 						<Property Name="Color" Type="int16">
 							<ValueList>
@@ -1697,7 +1697,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="iZotope Trash Dynamics Mono" PluginType="3" CompanyID="259" PluginID="5">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="259" PluginID="5">
 					<PropertyList>
 						<Property Name="Bypass" Type="int32">
 							<ValueList>
@@ -1780,7 +1780,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="iZotope Trash Filters" PluginType="3" CompanyID="259" PluginID="6">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="259" PluginID="6">
 					<PropertyList>
 						<Property Name="Color" Type="int16">
 							<ValueList>
@@ -1998,7 +1998,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="iZotope Trash Box Modeler" PluginType="3" CompanyID="259" PluginID="7">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="259" PluginID="7">
 					<PropertyList>
 						<Property Name="BoxModel" Type="int32">
 							<ValueList>
@@ -3029,7 +3029,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="iZotope Trash Multiband Distortion" PluginType="3" CompanyID="259" PluginID="9">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="259" PluginID="9">
 					<PropertyList>
 						<Property Name="Color" Type="int16">
 							<ValueList>
@@ -3760,7 +3760,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="ATRAC9" PluginType="1" CompanyID="0" PluginID="12">
+				<SharedPropertyList ClassName="" PluginType="1" CompanyID="0" PluginID="12">
 					<PropertyList>
 						<Property Name="BitRate" Type="int32">
 							<ValueList>
@@ -3880,7 +3880,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="OpusNX" PluginType="1" CompanyID="0" PluginID="17">
+				<SharedPropertyList ClassName="" PluginType="1" CompanyID="0" PluginID="17">
 					<PropertyList>
 						<Property Name="EncodingMode" Type="int32">
 							<ValueList>
@@ -8497,7 +8497,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="McDSP ML1" PluginType="3" CompanyID="256" PluginID="103">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="256" PluginID="103">
 					<PropertyList>
 						<Property Name="Ceiling" Type="Real32">
 							<ValueList>
@@ -8856,7 +8856,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="McDSP FutzBox" PluginType="3" CompanyID="256" PluginID="110">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="256" PluginID="110">
 					<PropertyList>
 						<Property Name="Balance" Type="Real32">
 							<ValueList>
@@ -9300,7 +9300,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="SoundSeed Impact" PluginType="3" CompanyID="0" PluginID="116">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="0" PluginID="116">
 					<PropertyList>
 						<Property Name="BWAmt" Type="Real32">
 							<ValueList>
@@ -9633,7 +9633,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="SoundSeed Air Wind" PluginType="2" CompanyID="0" PluginID="119">
+				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="119">
 					<PropertyList>
 						<Property Name="AttenuationRollOff" Type="Real32">
 							<ValueList>
@@ -9782,7 +9782,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="SoundSeed Air Woosh" PluginType="2" CompanyID="0" PluginID="120">
+				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="120">
 					<PropertyList>
 						<Property Name="AttenuationRollOff" Type="Real32">
 							<ValueList>
@@ -9906,7 +9906,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Deflector" PluginType="0" CompanyID="0" PluginID="121">
+				<SharedPropertyList ClassName="" PluginType="0" CompanyID="0" PluginID="121">
 					<PropertyList>
 						<Property Name="Frequency" Type="Real32">
 							<ValueList>
@@ -9935,7 +9935,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Deflector" PluginType="0" CompanyID="0" PluginID="122">
+				<SharedPropertyList ClassName="" PluginType="0" CompanyID="0" PluginID="122">
 					<PropertyList>
 						<Property Name="Anchor" Type="bool">
 							<ValueList>
@@ -10267,7 +10267,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Wwise Convolution Reverb" PluginType="3" CompanyID="0" PluginID="127">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="0" PluginID="127">
 					<PropertyList>
 						<Property Name="AlgoTypeSelect" Type="int32">
 							<ValueList>
@@ -11561,7 +11561,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="SCE Audio3d Object Panner [Deprecated]" PluginType="6" CompanyID="0" PluginID="149">
+				<SharedPropertyList ClassName="" PluginType="6" CompanyID="0" PluginID="149">
 					<PropertyList>
 						<Property Name="Bypass object panning" Type="bool">
 							<ValueList>
@@ -11590,7 +11590,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="AttachableMixerInput" PluginType="3" CompanyID="0" PluginID="150">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="0" PluginID="150">
 					<PropertyList>
 						<Property Name="Bypass object panning" Type="bool">
 							<ValueList>
@@ -11604,7 +11604,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="SCE Audio3d Bed Output [Deprecated]" PluginType="7" CompanyID="0" PluginID="151">
+				<SharedPropertyList ClassName="" PluginType="7" CompanyID="0" PluginID="151">
 					<PropertyList>
 						<Property Name="BypassEffect" Type="bool">
 							<ValueList>
@@ -11678,7 +11678,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="AK Sink Plugin" PluginType="7" CompanyID="0" PluginID="152">
+				<SharedPropertyList ClassName="" PluginType="7" CompanyID="0" PluginID="152">
 					<PropertyList>
 						<Property Name="BypassEffect" Type="bool">
 							<ValueList>
@@ -11870,7 +11870,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="SCE Audio3d Global Settings [Deprecated]" PluginType="3" CompanyID="0" PluginID="165">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="0" PluginID="165">
 					<PropertyList>
 						<Property Name="Color" Type="int16">
 							<ValueList>
@@ -11913,7 +11913,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Microsoft Spatial Sound Platform Output [Deprecated]" PluginType="7" CompanyID="275" PluginID="170">
+				<SharedPropertyList ClassName="" PluginType="7" CompanyID="275" PluginID="170">
 					<PropertyList>
 						<Property Name="BypassEffect" Type="bool">
 							<ValueList>
@@ -11957,7 +11957,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Wwise Reflect" PluginType="3" CompanyID="0" PluginID="171">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="0" PluginID="171">
 					<PropertyList>
 						<Property Name="BaseTextureFrequency" Type="Real32">
 							<ValueList>
@@ -12389,7 +12389,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="SoundSeed Grain" PluginType="2" CompanyID="0" PluginID="183">
+				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="183">
 					<PropertyList>
 						<Property Name="Amplitude" Type="Real32">
 							<ValueList>
@@ -13273,7 +13273,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Impacter" PluginType="2" CompanyID="0" PluginID="184">
+				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="184">
 					<PropertyList>
 						<Property Name="ExcitationMask" Type="Uint64">
 							<ValueList>
@@ -13362,7 +13362,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="ParameterModulatorAssociation" PluginType="0" CompanyID="0" PluginID="185">
+				<SharedPropertyList ClassName="" PluginType="0" CompanyID="0" PluginID="185">
 					<PropertyList>
 						<Property Name="ModDisplayName" Type="string">
 							<ValueList>
@@ -13396,7 +13396,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Mastering Suite" PluginType="3" CompanyID="0" PluginID="186">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="0" PluginID="186">
 					<PropertyList>
 						<Property Name="Color" Type="int16">
 							<ValueList>
@@ -14028,7 +14028,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Wwise Motion Generator (Deprecated)" PluginType="2" CompanyID="0" PluginID="405">
+				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="405">
 					<PropertyList>
 						<Property Name="AttackTime" Type="Real32">
 							<ValueList>
@@ -14077,7 +14077,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Wwise Motion Generator (Deprecated)" PluginType="5" CompanyID="0" PluginID="405">
+				<SharedPropertyList ClassName="" PluginType="5" CompanyID="0" PluginID="405">
 					<PropertyList>
 						<Property Name="AttackTime" Type="Real32">
 							<ValueList>
@@ -14126,7 +14126,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Wwise Motion Source" PluginType="2" CompanyID="0" PluginID="409">
+				<SharedPropertyList ClassName="" PluginType="2" CompanyID="0" PluginID="409">
 					<PropertyList>
 						<Property Name="Channel1" Type="int16">
 							<ValueList>
@@ -14455,7 +14455,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Wwise Motion" PluginType="7" CompanyID="0" PluginID="507">
+				<SharedPropertyList ClassName="" PluginType="7" CompanyID="0" PluginID="507">
 					<PropertyList>
 						<Property Name="BypassEffect" Type="bool">
 							<ValueList>
@@ -14626,7 +14626,7 @@
 						</Property>
 					</PropertyList>
 				</SharedPropertyList>
-				<SharedPropertyList ClassName="Auro Headphone" PluginType="3" CompanyID="263" PluginID="1100">
+				<SharedPropertyList ClassName="" PluginType="3" CompanyID="263" PluginID="1100">
 					<PropertyList>
 						<Property Name="Bypass" Type="bool">
 							<ValueList>
