@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{4C576A05-3C43-4C01-8360-58F5330C5C4D}" SchemaVersion="103">
+	<AudioObjects>
+		<WorkUnit Name="AliWorkUnit" ID="{4C576A05-3C43-4C01-8360-58F5330C5C4D}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="New Sound SFX" ID="{64396D77-53C3-4753-9B95-8E2002997FA1}" ShortID="880732785">
+					<PropertyList>
+						<Property Name="HdrEnvelopeSensitivity" Type="Real64" Value="20"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4088A3B9-F0F0-4E27-9663-D2A1090F64CB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{84D510B3-530D-4CA5-ADB2-C0437A724D60}"/>
+						</Reference>
+					</ReferenceList>
+					<ObjectLists/>
+				</Sound>
+				<RandomSequenceContainer Name="New Sequence Container" ID="{EEB18E0D-8F8E-4542-A2CF-0E4DD4876ACC}" ShortID="241627503">
+					<PropertyList>
+						<Property Name="HdrEnvelopeSensitivity" Type="Real64" Value="20"/>
+						<Property Name="RandomOrSequence" Type="int16" Value="0"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4088A3B9-F0F0-4E27-9663-D2A1090F64CB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{84D510B3-530D-4CA5-ADB2-C0437A724D60}"/>
+						</Reference>
+					</ReferenceList>
+					<ObjectLists/>
+				</RandomSequenceContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
